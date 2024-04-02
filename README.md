@@ -1,2 +1,3 @@
 # Activity_Generator
-Small 2 microcontroller project
+
+This project uses an ESP32 that has access to internet, an Arduino Uno board, a LCD screen, a EEPROM, a button and a potentiometer.
